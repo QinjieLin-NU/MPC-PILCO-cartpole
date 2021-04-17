@@ -1,0 +1,4 @@
+gpflow>=2.0.0
+
+[Tensorflow with GPU]
+tensorflow-gpu==1.13.1
